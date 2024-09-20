@@ -1,0 +1,3 @@
+import vosk
+
+print("helllo")
