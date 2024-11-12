@@ -154,5 +154,3 @@ To run the smart curtain program automatically on startup:
 This project was developed by Ayman Ben Amor as a showcase of memories at ENSI, integrating embedded systems, IoT, and speech recognition.
 
 ---
-
-Let me know if there’s anything you would like to adjust or add.
