@@ -155,7 +155,8 @@ This project was developed by Ayman Ben Amor as a showcase of memories at ENSI, 
 
 ## Demo Video
 
-[Watch the demo video](../demo.mp4) of the smart curtain system in action.
+Watch the [demo video](https://drive.google.com/file/d/11hWDxoL5hE4GUlSv5FmhiAty7iTtSWFM/view?usp=drive_link) of the smart curtain system in action.
 
+[![Watch the video](https://img.icons8.com/color/48/000000/google-drive--v1.png)](https://drive.google.com/file/d/11hWDxoL5hE4GUlSv5FmhiAty7iTtSWFM/view?usp=drive_link)
 
 ---
